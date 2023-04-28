@@ -19,9 +19,6 @@ public class House {
         System.out.println("find all three items to rid the house of the ghosts");
 
 
-        
-        String [] ghosts = {"ghost vacuum", "ghost dust", "ghost flashlight"};
-
 
 
 
