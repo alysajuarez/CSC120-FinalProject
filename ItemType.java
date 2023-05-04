@@ -1,3 +1,3 @@
-public class ItemType {
-    
-}
+// public enum ItemType {
+//     FLASHLIGHT, VACUUM, DUST;
+// }

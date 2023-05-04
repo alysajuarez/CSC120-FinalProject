@@ -1,3 +1,3 @@
-public enum GhostType {
-    FLASHLIGHT, VACUUM, DUST;
-}
+// public enum GhostType {
+//     FLASHLIGHT, VACUUM, DUST;
+// }
