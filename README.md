@@ -40,3 +40,7 @@ i would definitely give myself the advice of talking out ideas and using psuedoc
  - _If you worked with a team:_ please comment on how your **team dynamics** influenced your experience working on this project.
 
 i did not work with a team for this project. the reason for this was because i had so many group projects this semester/at this time and was already struggling with scheduling and planning meeting times, so i didn't think i'd be able to do this with a group. i do wish i would have because it is a lot easier and more fun to code with others. luckily i had friends and the professors who i was able to get help from whether that be with fixing bugs or just talking through things with to figure stuff out on my own!
+
+
+## design justification
+i think the design of my program was efficient. an alternative which i originally planned was to have my “plans” as a string array list or a hash table. if i had used a hashtable, i would probably be only be able to have one thing associated with my activity, such as budget (or i could have implemented more but it would be much more messy and difficult to work with). i think the right choice was creating the Plan class, in which i could construct plans as their own object to use in other classes. this really helped with keeping organised and being able to connect the classes and ultimately generate plans in the PlansRecommendation class. 
