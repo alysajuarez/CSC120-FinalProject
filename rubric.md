@@ -1,3 +1,5 @@
+# refer to finalrubric.md
+
 ## Front-End Design (10 pts)
 
 _____ 2 pts: Game has a **robust, understandable text-based interface** that allows the player to control their movement through the game.  Player should be able to enter any command at any time, and if it makes sense in the current context it will be carried out.
